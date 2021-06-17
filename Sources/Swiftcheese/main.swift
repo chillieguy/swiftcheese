@@ -22,4 +22,4 @@ struct Swiftcheese: Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
-try Swiftcheese().publish(withTheme: .foundation)
+try Swiftcheese().publish(withTheme: .basic)
